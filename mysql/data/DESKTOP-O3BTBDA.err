@@ -1,0 +1,526 @@
+2022-04-07 16:19:57 9248 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-07 16:19:57 9248 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-07 16:19:57 9248 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-07 16:19:57 9248 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-07 16:19:57 9248 [Note] InnoDB: Memory barrier is not used
+2022-04-07 16:19:57 9248 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-07 16:19:57 9248 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-07 16:19:57 9248 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-07 16:19:57 9248 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-07 16:19:57 9248 [Note] InnoDB: Setting log file G:\Desktop\usbwebserver\mysql\data\ib_logfile101 size to 5 MB
+2022-04-07 16:19:57 9248 [Note] InnoDB: Setting log file G:\Desktop\usbwebserver\mysql\data\ib_logfile1 size to 5 MB
+2022-04-07 16:19:57 9248 [Note] InnoDB: Renaming log file G:\Desktop\usbwebserver\mysql\data\ib_logfile101 to G:\Desktop\usbwebserver\mysql\data\ib_logfile0
+2022-04-07 16:19:57 9248 [Warning] InnoDB: New log files created, LSN=1626134
+2022-04-07 16:19:57 9248 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-07 16:19:57 3f9c InnoDB: Error: page 5 log sequence number 1626646
+InnoDB: is in the future! Current system log sequence number 1626636.
+InnoDB: Your database may be corrupt or you may have copied the InnoDB
+InnoDB: tablespace but not the InnoDB log files. See
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/forcing-innodb-recovery.html
+InnoDB: for more information.
+2022-04-07 16:19:57 9248 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-07 16:19:57 9248 [Note] InnoDB: Waiting for purge to start
+2022-04-07 16:19:57 9248 [Note] InnoDB: 5.6.34 started; log sequence number 1626636
+2022-04-07 16:19:57 9248 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: 6be8e1a9-b675-11ec-98a3-00155d67b9cc.
+2022-04-07 16:19:57 9248 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-07 16:19:57 9248 [Note] IPv6 is available.
+2022-04-07 16:19:57 9248 [Note]   - '::' resolves to '::';
+2022-04-07 16:19:57 9248 [Note] Server socket created on IP: '::'.
+2022-04-07 16:27:10 26700 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-07 16:27:10 26700 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-07 16:27:10 26700 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-07 16:27:10 26700 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-07 16:27:10 26700 [Note] InnoDB: Memory barrier is not used
+2022-04-07 16:27:10 26700 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-07 16:27:10 26700 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-07 16:27:10 26700 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-07 16:27:10 26700 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-07 16:27:10 26700 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-07 16:27:10 26700 [Note] InnoDB: The log sequence numbers 1626134 and 1626134 in ibdata files do not match the log sequence number 1626646 in the ib_logfiles!
+2022-04-07 16:27:10 26700 [Note] InnoDB: Database was not shutdown normally!
+2022-04-07 16:27:10 26700 [Note] InnoDB: Starting crash recovery.
+2022-04-07 16:27:10 26700 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2022-04-07 16:27:10 26700 [Note] InnoDB: Restoring possible half-written data pages 
+2022-04-07 16:27:10 26700 [Note] InnoDB: from the doublewrite buffer...
+2022-04-07 16:27:10 26700 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-07 16:27:10 26700 [Note] InnoDB: Waiting for purge to start
+2022-04-07 16:27:10 26700 [Note] InnoDB: 5.6.34 started; log sequence number 1626646
+2022-04-07 16:27:10 26700 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-07 16:27:10 26700 [Note] IPv6 is available.
+2022-04-07 16:27:10 26700 [Note]   - '::' resolves to '::';
+2022-04-07 16:27:10 26700 [Note] Server socket created on IP: '::'.
+2022-04-08 00:17:52 27276 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-08 00:17:52 27276 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-08 00:17:52 27276 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-08 00:17:52 27276 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-08 00:17:52 27276 [Note] InnoDB: Memory barrier is not used
+2022-04-08 00:17:52 27276 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-08 00:17:52 27276 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-08 00:17:52 27276 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-08 00:17:52 27276 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-08 00:17:52 27276 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-08 00:17:52 27276 [Note] InnoDB: The log sequence numbers 1626134 and 1626134 in ibdata files do not match the log sequence number 1626656 in the ib_logfiles!
+2022-04-08 00:17:52 27276 [Note] InnoDB: Database was not shutdown normally!
+2022-04-08 00:17:52 27276 [Note] InnoDB: Starting crash recovery.
+2022-04-08 00:17:52 27276 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2022-04-08 00:17:53 27276 [Note] InnoDB: Restoring possible half-written data pages 
+2022-04-08 00:17:53 27276 [Note] InnoDB: from the doublewrite buffer...
+2022-04-08 00:17:53 27276 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-08 00:17:53 27276 [Note] InnoDB: Waiting for purge to start
+2022-04-08 00:17:53 27276 [Note] InnoDB: 5.6.34 started; log sequence number 1626656
+2022-04-08 00:17:53 27276 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-08 00:17:53 27276 [Note] IPv6 is available.
+2022-04-08 00:17:53 27276 [Note]   - '::' resolves to '::';
+2022-04-08 00:17:53 27276 [Note] Server socket created on IP: '::'.
+2022-04-08 16:46:38 7664 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-08 16:46:38 7664 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-08 16:46:38 7664 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-08 16:46:38 7664 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-08 16:46:38 7664 [Note] InnoDB: Memory barrier is not used
+2022-04-08 16:46:38 7664 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-08 16:46:38 7664 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-08 16:46:38 7664 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-08 16:46:38 7664 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-08 16:46:38 7664 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-08 16:46:38 7664 [Note] InnoDB: The log sequence numbers 1626134 and 1626134 in ibdata files do not match the log sequence number 1626666 in the ib_logfiles!
+2022-04-08 16:46:38 7664 [Note] InnoDB: Database was not shutdown normally!
+2022-04-08 16:46:38 7664 [Note] InnoDB: Starting crash recovery.
+2022-04-08 16:46:38 7664 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2022-04-08 16:46:38 7664 [Note] InnoDB: Restoring possible half-written data pages 
+2022-04-08 16:46:38 7664 [Note] InnoDB: from the doublewrite buffer...
+2022-04-08 16:46:39 7664 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-08 16:46:39 7664 [Note] InnoDB: Waiting for purge to start
+2022-04-08 16:46:39 7664 [Note] InnoDB: 5.6.34 started; log sequence number 1626666
+2022-04-08 16:46:39 7664 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-08 16:46:39 7664 [Note] IPv6 is available.
+2022-04-08 16:46:39 7664 [Note]   - '::' resolves to '::';
+2022-04-08 16:46:39 7664 [Note] Server socket created on IP: '::'.
+2022-04-08 19:13:57 9600 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-08 19:13:57 9600 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-08 19:13:57 9600 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-08 19:13:57 9600 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-08 19:13:57 9600 [Note] InnoDB: Memory barrier is not used
+2022-04-08 19:13:57 9600 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-08 19:13:57 9600 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-08 19:13:57 9600 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-08 19:13:58 9600 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-08 19:13:58 9600 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-08 19:13:58 9600 [Note] InnoDB: The log sequence numbers 1626134 and 1626134 in ibdata files do not match the log sequence number 1849083 in the ib_logfiles!
+2022-04-08 19:13:58 9600 [Note] InnoDB: Database was not shutdown normally!
+2022-04-08 19:13:58 9600 [Note] InnoDB: Starting crash recovery.
+2022-04-08 19:13:58 9600 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2022-04-08 19:13:58 9600 [Note] InnoDB: Restoring possible half-written data pages 
+2022-04-08 19:13:58 9600 [Note] InnoDB: from the doublewrite buffer...
+2022-04-08 19:13:58 9600 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-08 19:13:58 9600 [Note] InnoDB: Waiting for purge to start
+2022-04-08 19:13:58 9600 [Note] InnoDB: 5.6.34 started; log sequence number 1849083
+2022-04-08 19:13:58 9600 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-08 19:13:58 9600 [Note] IPv6 is available.
+2022-04-08 19:13:58 9600 [Note]   - '::' resolves to '::';
+2022-04-08 19:13:58 9600 [Note] Server socket created on IP: '::'.
+2022-04-08 23:51:53 9560 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-08 23:51:53 9560 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-08 23:51:53 9560 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-08 23:51:53 9560 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-08 23:51:53 9560 [Note] InnoDB: Memory barrier is not used
+2022-04-08 23:51:53 9560 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-08 23:51:53 9560 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-08 23:51:53 9560 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-08 23:51:53 9560 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-08 23:51:53 9560 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-08 23:51:53 9560 [Note] InnoDB: The log sequence numbers 1626134 and 1626134 in ibdata files do not match the log sequence number 1849093 in the ib_logfiles!
+2022-04-08 23:51:53 9560 [Note] InnoDB: Database was not shutdown normally!
+2022-04-08 23:51:53 9560 [Note] InnoDB: Starting crash recovery.
+2022-04-08 23:51:53 9560 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2022-04-08 23:51:53 9560 [Note] InnoDB: Restoring possible half-written data pages 
+2022-04-08 23:51:53 9560 [Note] InnoDB: from the doublewrite buffer...
+2022-04-08 23:51:54 9560 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-08 23:51:54 9560 [Note] InnoDB: Waiting for purge to start
+2022-04-08 23:51:54 9560 [Note] InnoDB: 5.6.34 started; log sequence number 1849093
+2022-04-08 23:51:54 9560 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-08 23:51:54 9560 [Note] IPv6 is available.
+2022-04-08 23:51:54 9560 [Note]   - '::' resolves to '::';
+2022-04-08 23:51:54 9560 [Note] Server socket created on IP: '::'.
+2022-04-09 01:55:19 10832 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-09 01:55:19 10832 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-09 01:55:19 10832 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-09 01:55:19 10832 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-09 01:55:19 10832 [Note] InnoDB: Memory barrier is not used
+2022-04-09 01:55:19 10832 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-09 01:55:19 10832 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-09 01:55:19 10832 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-09 01:55:19 10832 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-09 01:55:19 10832 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-09 01:55:19 10832 [Note] InnoDB: The log sequence numbers 1626134 and 1626134 in ibdata files do not match the log sequence number 1849103 in the ib_logfiles!
+2022-04-09 01:55:19 10832 [Note] InnoDB: Database was not shutdown normally!
+2022-04-09 01:55:19 10832 [Note] InnoDB: Starting crash recovery.
+2022-04-09 01:55:19 10832 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2022-04-09 01:55:19 10832 [Note] InnoDB: Restoring possible half-written data pages 
+2022-04-09 01:55:19 10832 [Note] InnoDB: from the doublewrite buffer...
+2022-04-09 01:55:19 10832 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-09 01:55:19 10832 [Note] InnoDB: Waiting for purge to start
+2022-04-09 01:55:19 10832 [Note] InnoDB: 5.6.34 started; log sequence number 1849103
+2022-04-09 01:55:19 10832 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-09 01:55:19 10832 [Note] IPv6 is available.
+2022-04-09 01:55:19 10832 [Note]   - '::' resolves to '::';
+2022-04-09 01:55:19 10832 [Note] Server socket created on IP: '::'.
+2022-04-09 01:55:19 10832 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+2022-04-09 01:55:19 10832 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-04-09 01:55:19 10832 [ERROR] Aborting
+
+2022-04-09 01:55:19 10832 [Note] Binlog end
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'partition'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_METRICS'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_CMP'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_LOCKS'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'INNODB_TRX'
+2022-04-09 01:55:19 10832 [Note] Shutting down plugin 'InnoDB'
+2022-04-09 01:55:19 10832 [Note] InnoDB: FTS optimize thread exiting.
+2022-04-09 01:55:19 10832 [Note] InnoDB: Starting shutdown...
+2022-04-09 01:55:21 10832 [Note] InnoDB: Shutdown completed; log sequence number 1849113
+2022-04-09 01:55:21 10832 [Note] Shutting down plugin 'BLACKHOLE'
+2022-04-09 01:55:21 10832 [Note] Shutting down plugin 'ARCHIVE'
+2022-04-09 01:55:21 10832 [Note] Shutting down plugin 'MRG_MYISAM'
+2022-04-09 01:55:21 10832 [Note] Shutting down plugin 'MyISAM'
+2022-04-09 01:55:21 10832 [Note] Shutting down plugin 'MEMORY'
+2022-04-09 01:55:21 10832 [Note] Shutting down plugin 'CSV'
+2022-04-09 01:55:21 10832 [Note] Shutting down plugin 'sha256_password'
+2022-04-09 01:55:21 10832 [Note] Shutting down plugin 'mysql_old_password'
+2022-04-09 01:55:21 10832 [Note] Shutting down plugin 'mysql_native_password'
+2022-04-09 01:55:21 10832 [Note] Shutting down plugin 'binlog'
+2022-04-09 01:55:21 10832 [Note] G:\Documents\GitHub\AngelGketsis.github.io/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+2022-04-09 02:06:35 19820 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-09 02:06:35 19820 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-09 02:06:35 19820 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-09 02:06:35 19820 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-09 02:06:35 19820 [Note] InnoDB: Memory barrier is not used
+2022-04-09 02:06:35 19820 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-09 02:06:35 19820 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-09 02:06:35 19820 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-09 02:06:35 19820 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-09 02:06:35 19820 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-09 02:06:35 19820 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-09 02:06:35 19820 [Note] InnoDB: Waiting for purge to start
+2022-04-09 02:06:35 19820 [Note] InnoDB: 5.6.34 started; log sequence number 1849113
+2022-04-09 02:06:35 19820 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-09 02:06:35 19820 [Note] IPv6 is available.
+2022-04-09 02:06:35 19820 [Note]   - '::' resolves to '::';
+2022-04-09 02:06:35 19820 [Note] Server socket created on IP: '::'.
+2022-04-09 02:48:01 16240 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-09 02:48:01 16240 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-09 02:48:01 16240 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-09 02:48:01 16240 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-09 02:48:01 16240 [Note] InnoDB: Memory barrier is not used
+2022-04-09 02:48:01 16240 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-09 02:48:01 16240 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-09 02:48:01 16240 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-09 02:48:01 16240 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-09 02:48:01 16240 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-09 02:48:01 16240 [Note] InnoDB: The log sequence numbers 1849113 and 1849113 in ibdata files do not match the log sequence number 1849123 in the ib_logfiles!
+2022-04-09 02:48:01 16240 [Note] InnoDB: Database was not shutdown normally!
+2022-04-09 02:48:01 16240 [Note] InnoDB: Starting crash recovery.
+2022-04-09 02:48:01 16240 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2022-04-09 02:48:01 16240 [Note] InnoDB: Restoring possible half-written data pages 
+2022-04-09 02:48:01 16240 [Note] InnoDB: from the doublewrite buffer...
+2022-04-09 02:48:01 16240 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-09 02:48:01 16240 [Note] InnoDB: Waiting for purge to start
+2022-04-09 02:48:01 16240 [Note] InnoDB: 5.6.34 started; log sequence number 1849123
+2022-04-09 02:48:01 16240 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-09 02:48:01 16240 [Note] IPv6 is available.
+2022-04-09 02:48:01 16240 [Note]   - '::' resolves to '::';
+2022-04-09 02:48:01 16240 [Note] Server socket created on IP: '::'.
+2022-04-09 04:04:32 16876 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-09 04:04:32 16876 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-09 04:04:32 16876 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-09 04:04:32 16876 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-09 04:04:32 16876 [Note] InnoDB: Memory barrier is not used
+2022-04-09 04:04:32 16876 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-09 04:04:32 16876 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-09 04:04:32 16876 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-09 04:04:32 16876 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-09 04:04:32 16876 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-09 04:04:32 16876 [Note] InnoDB: The log sequence numbers 1849113 and 1849113 in ibdata files do not match the log sequence number 1849133 in the ib_logfiles!
+2022-04-09 04:04:32 16876 [Note] InnoDB: Database was not shutdown normally!
+2022-04-09 04:04:32 16876 [Note] InnoDB: Starting crash recovery.
+2022-04-09 04:04:32 16876 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2022-04-09 04:04:32 16876 [Note] InnoDB: Restoring possible half-written data pages 
+2022-04-09 04:04:32 16876 [Note] InnoDB: from the doublewrite buffer...
+2022-04-09 04:04:32 16876 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-09 04:04:32 16876 [Note] InnoDB: Waiting for purge to start
+2022-04-09 04:04:32 16876 [Note] InnoDB: 5.6.34 started; log sequence number 1849133
+2022-04-09 04:04:32 16876 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-09 04:04:32 16876 [Note] IPv6 is available.
+2022-04-09 04:04:32 16876 [Note]   - '::' resolves to '::';
+2022-04-09 04:04:32 16876 [Note] Server socket created on IP: '::'.
+2022-04-11 17:17:18 10536 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-11 17:17:18 10536 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-11 17:17:18 10536 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-11 17:17:18 10536 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-11 17:17:18 10536 [Note] InnoDB: Memory barrier is not used
+2022-04-11 17:17:18 10536 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-11 17:17:18 10536 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-11 17:17:18 10536 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-11 17:17:18 10536 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-11 17:17:18 10536 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-11 17:17:18 10536 [Note] InnoDB: The log sequence numbers 1849113 and 1849113 in ibdata files do not match the log sequence number 1849143 in the ib_logfiles!
+2022-04-11 17:17:18 10536 [Note] InnoDB: Database was not shutdown normally!
+2022-04-11 17:17:18 10536 [Note] InnoDB: Starting crash recovery.
+2022-04-11 17:17:18 10536 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2022-04-11 17:17:18 10536 [Note] InnoDB: Restoring possible half-written data pages 
+2022-04-11 17:17:18 10536 [Note] InnoDB: from the doublewrite buffer...
+2022-04-11 17:17:18 10536 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-11 17:17:18 10536 [Note] InnoDB: Waiting for purge to start
+2022-04-11 17:17:18 10536 [Note] InnoDB: 5.6.34 started; log sequence number 1849143
+2022-04-11 17:17:18 10536 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-11 17:17:18 10536 [Note] IPv6 is available.
+2022-04-11 17:17:18 10536 [Note]   - '::' resolves to '::';
+2022-04-11 17:17:18 10536 [Note] Server socket created on IP: '::'.
+2022-04-11 18:17:22 24596 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-11 18:17:22 24596 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-11 18:17:22 24596 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-11 18:17:22 24596 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-11 18:17:22 24596 [Note] InnoDB: Memory barrier is not used
+2022-04-11 18:17:22 24596 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-11 18:17:22 24596 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-11 18:17:22 24596 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-11 18:17:22 24596 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-11 18:17:22 24596 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-11 18:17:22 24596 [Note] InnoDB: The log sequence numbers 1849113 and 1849113 in ibdata files do not match the log sequence number 1905584 in the ib_logfiles!
+2022-04-11 18:17:22 24596 [Note] InnoDB: Database was not shutdown normally!
+2022-04-11 18:17:22 24596 [Note] InnoDB: Starting crash recovery.
+2022-04-11 18:17:22 24596 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2022-04-11 18:17:22 24596 [Note] InnoDB: Restoring possible half-written data pages 
+2022-04-11 18:17:22 24596 [Note] InnoDB: from the doublewrite buffer...
+2022-04-11 18:17:22 24596 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-11 18:17:22 24596 [Note] InnoDB: Waiting for purge to start
+2022-04-11 18:17:22 24596 [Note] InnoDB: 5.6.34 started; log sequence number 1905584
+2022-04-11 18:17:22 24596 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-11 18:17:22 24596 [Note] IPv6 is available.
+2022-04-11 18:17:22 24596 [Note]   - '::' resolves to '::';
+2022-04-11 18:17:22 24596 [Note] Server socket created on IP: '::'.
+2022-04-11 18:59:07 11976 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-11 18:59:07 11976 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-11 18:59:07 11976 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-11 18:59:07 11976 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-11 18:59:07 11976 [Note] InnoDB: Memory barrier is not used
+2022-04-11 18:59:07 11976 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-11 18:59:07 11976 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-11 18:59:07 11976 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-11 18:59:07 11976 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-11 18:59:07 11976 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-11 18:59:07 11976 [Note] InnoDB: The log sequence numbers 1849113 and 1849113 in ibdata files do not match the log sequence number 1909564 in the ib_logfiles!
+2022-04-11 18:59:07 11976 [Note] InnoDB: Database was not shutdown normally!
+2022-04-11 18:59:07 11976 [Note] InnoDB: Starting crash recovery.
+2022-04-11 18:59:07 11976 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2022-04-11 18:59:07 11976 [Note] InnoDB: Restoring possible half-written data pages 
+2022-04-11 18:59:07 11976 [Note] InnoDB: from the doublewrite buffer...
+2022-04-11 18:59:07 11976 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-11 18:59:07 11976 [Note] InnoDB: Waiting for purge to start
+2022-04-11 18:59:07 11976 [Note] InnoDB: 5.6.34 started; log sequence number 1909564
+2022-04-11 18:59:07 11976 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-11 18:59:07 11976 [Note] IPv6 is available.
+2022-04-11 18:59:07 11976 [Note]   - '::' resolves to '::';
+2022-04-11 18:59:07 11976 [Note] Server socket created on IP: '::'.
+2022-04-12 02:13:53 23276 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-12 02:13:53 23276 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-12 02:13:53 23276 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-12 02:13:53 23276 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-12 02:13:53 23276 [Note] InnoDB: Memory barrier is not used
+2022-04-12 02:13:53 23276 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-12 02:13:53 23276 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-12 02:13:53 23276 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-12 02:13:53 23276 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-12 02:13:53 23276 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-12 02:13:53 23276 [Note] InnoDB: The log sequence numbers 1849113 and 1849113 in ibdata files do not match the log sequence number 2122088 in the ib_logfiles!
+2022-04-12 02:13:53 23276 [Note] InnoDB: Database was not shutdown normally!
+2022-04-12 02:13:53 23276 [Note] InnoDB: Starting crash recovery.
+2022-04-12 02:13:53 23276 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2022-04-12 02:13:53 23276 [Note] InnoDB: Restoring possible half-written data pages 
+2022-04-12 02:13:53 23276 [Note] InnoDB: from the doublewrite buffer...
+2022-04-12 02:13:53 23276 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-12 02:13:53 23276 [Note] InnoDB: Waiting for purge to start
+2022-04-12 02:13:53 23276 [Note] InnoDB: 5.6.34 started; log sequence number 2122088
+2022-04-12 02:13:53 23276 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-12 02:13:53 23276 [Note] IPv6 is available.
+2022-04-12 02:13:53 23276 [Note]   - '::' resolves to '::';
+2022-04-12 02:13:53 23276 [Note] Server socket created on IP: '::'.
+2022-04-12 15:25:12 24412 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-12 15:25:12 24412 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-12 15:25:12 24412 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-12 15:25:12 24412 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-12 15:25:12 24412 [Note] InnoDB: Memory barrier is not used
+2022-04-12 15:25:12 24412 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-12 15:25:12 24412 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-12 15:25:12 24412 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-12 15:25:12 24412 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-12 15:25:12 24412 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-12 15:25:12 24412 [Note] InnoDB: The log sequence numbers 1849113 and 1849113 in ibdata files do not match the log sequence number 2133703 in the ib_logfiles!
+2022-04-12 15:25:12 24412 [Note] InnoDB: Database was not shutdown normally!
+2022-04-12 15:25:12 24412 [Note] InnoDB: Starting crash recovery.
+2022-04-12 15:25:12 24412 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2022-04-12 15:25:13 24412 [Note] InnoDB: Restoring possible half-written data pages 
+2022-04-12 15:25:13 24412 [Note] InnoDB: from the doublewrite buffer...
+2022-04-12 15:25:13 24412 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-12 15:25:13 24412 [Note] InnoDB: Waiting for purge to start
+2022-04-12 15:25:13 24412 [Note] InnoDB: 5.6.34 started; log sequence number 2133703
+2022-04-12 15:25:13 24412 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-12 15:25:13 24412 [Note] IPv6 is available.
+2022-04-12 15:25:13 24412 [Note]   - '::' resolves to '::';
+2022-04-12 15:25:13 24412 [Note] Server socket created on IP: '::'.
+2022-04-13 01:22:47 10676 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-13 01:22:47 10676 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-13 01:22:47 10676 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-13 01:22:47 10676 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-13 01:22:47 10676 [Note] InnoDB: Memory barrier is not used
+2022-04-13 01:22:47 10676 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-13 01:22:47 10676 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-13 01:22:47 10676 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-13 01:22:47 10676 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-13 01:22:47 10676 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-13 01:22:47 10676 [Note] InnoDB: The log sequence numbers 1849113 and 1849113 in ibdata files do not match the log sequence number 2134871 in the ib_logfiles!
+2022-04-13 01:22:47 10676 [Note] InnoDB: Database was not shutdown normally!
+2022-04-13 01:22:47 10676 [Note] InnoDB: Starting crash recovery.
+2022-04-13 01:22:47 10676 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2022-04-13 01:22:47 10676 [Note] InnoDB: Restoring possible half-written data pages 
+2022-04-13 01:22:47 10676 [Note] InnoDB: from the doublewrite buffer...
+2022-04-13 01:22:47 10676 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-13 01:22:47 10676 [Note] InnoDB: Waiting for purge to start
+2022-04-13 01:22:47 10676 [Note] InnoDB: 5.6.34 started; log sequence number 2134871
+2022-04-13 01:22:47 10676 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-13 01:22:47 10676 [Note] IPv6 is available.
+2022-04-13 01:22:47 10676 [Note]   - '::' resolves to '::';
+2022-04-13 01:22:47 10676 [Note] Server socket created on IP: '::'.
+2022-04-13 14:56:04 14892 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-13 14:56:04 14892 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-13 14:56:04 14892 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-13 14:56:04 14892 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-13 14:56:04 14892 [Note] InnoDB: Memory barrier is not used
+2022-04-13 14:56:04 14892 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-13 14:56:04 14892 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-13 14:56:04 14892 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-13 14:56:04 14892 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-13 14:56:05 14892 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-13 14:56:05 14892 [Note] InnoDB: The log sequence numbers 1849113 and 1849113 in ibdata files do not match the log sequence number 2134881 in the ib_logfiles!
+2022-04-13 14:56:05 14892 [Note] InnoDB: Database was not shutdown normally!
+2022-04-13 14:56:05 14892 [Note] InnoDB: Starting crash recovery.
+2022-04-13 14:56:05 14892 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2022-04-13 14:56:05 14892 [Note] InnoDB: Restoring possible half-written data pages 
+2022-04-13 14:56:05 14892 [Note] InnoDB: from the doublewrite buffer...
+2022-04-13 14:56:05 14892 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-13 14:56:05 14892 [Note] InnoDB: Waiting for purge to start
+2022-04-13 14:56:05 14892 [Note] InnoDB: 5.6.34 started; log sequence number 2134881
+2022-04-13 14:56:05 14892 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-13 14:56:05 14892 [Note] IPv6 is available.
+2022-04-13 14:56:05 14892 [Note]   - '::' resolves to '::';
+2022-04-13 14:56:05 14892 [Note] Server socket created on IP: '::'.
+2022-04-13 14:56:06 14892 [Note] Event Scheduler: Loaded 0 events
+2022-04-13 14:56:06 14892 [Note] J:\AngelGketsis.github.io/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.6.34'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2022-04-14 00:45:32 16420 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-14 00:45:32 16420 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-14 00:45:32 16420 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-14 00:45:32 16420 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-14 00:45:32 16420 [Note] InnoDB: Memory barrier is not used
+2022-04-14 00:45:32 16420 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-14 00:45:32 16420 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-14 00:45:32 16420 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-14 00:45:32 16420 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-14 00:45:32 16420 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-04-14 00:45:32 16420 [Note] InnoDB: The log sequence numbers 1849113 and 1849113 in ibdata files do not match the log sequence number 2246457 in the ib_logfiles!
+2022-04-14 00:45:32 16420 [Note] InnoDB: Database was not shutdown normally!
+2022-04-14 00:45:32 16420 [Note] InnoDB: Starting crash recovery.
+2022-04-14 00:45:32 16420 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2022-04-14 00:45:32 16420 [Note] InnoDB: Restoring possible half-written data pages 
+2022-04-14 00:45:32 16420 [Note] InnoDB: from the doublewrite buffer...
+2022-04-14 00:45:33 16420 [Note] InnoDB: 128 rollback segment(s) are active.
+2022-04-14 00:45:33 16420 [Note] InnoDB: Waiting for purge to start
+2022-04-14 00:45:33 16420 [Note] InnoDB: 5.6.34 started; log sequence number 2246457
+2022-04-14 00:45:33 16420 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-04-14 00:45:33 16420 [Note] IPv6 is available.
+2022-04-14 00:45:33 16420 [Note]   - '::' resolves to '::';
+2022-04-14 00:45:33 16420 [Note] Server socket created on IP: '::'.
+2022-04-14 11:37:47 36348 [Note] Plugin 'FEDERATED' is disabled.
+2022-04-14 11:37:47 36348 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2022-04-14 11:37:47 36348 [Note] InnoDB: The InnoDB memory heap is disabled
+2022-04-14 11:37:47 36348 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-14 11:37:47 36348 [Note] InnoDB: Memory barrier is not used
+2022-04-14 11:37:47 36348 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-04-14 11:37:47 36348 [Note] InnoDB: Not using CPU crc32 instructions
+2022-04-14 11:37:47 36348 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2022-04-14 11:37:47 36348 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-14 11:37:47 36348 [ERROR] InnoDB: J:\AngelGketsis.github.io\mysql\data\ibdata1 can't be opened in read-write mode
+2022-04-14 11:37:47 36348 [ERROR] InnoDB: The system tablespace must be writable!
+2022-04-14 11:37:47 36348 [ERROR] Plugin 'InnoDB' init function returned error.
+2022-04-14 11:37:47 36348 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2022-04-14 11:37:47 36348 [ERROR] Unknown/unsupported storage engine: InnoDB
+2022-04-14 11:37:47 36348 [ERROR] Aborting
+
+2022-04-14 11:37:47 36348 [Note] Binlog end
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'partition'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_METRICS'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_CMP'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_LOCKS'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'INNODB_TRX'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'BLACKHOLE'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'ARCHIVE'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'MRG_MYISAM'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'MyISAM'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'MEMORY'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'CSV'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'sha256_password'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'mysql_old_password'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'mysql_native_password'
+2022-04-14 11:37:47 36348 [Note] Shutting down plugin 'binlog'
+2022-04-14 11:37:47 36348 [Note] J:\AngelGketsis.github.io/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
