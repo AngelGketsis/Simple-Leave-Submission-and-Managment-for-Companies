@@ -1,3 +1,5 @@
+USE leavesystem;
+
 -- Example hashed password (replace with the actual hashed password you generated)
 SET @hashedPassword = '$2a$10$UZpb0QZAFtptkWpEP8IzdOk6397k/NLWwOE5tG8JRdefv0/ERCrJm';
 
