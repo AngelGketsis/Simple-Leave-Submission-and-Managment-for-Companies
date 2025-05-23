@@ -1,0 +1,16 @@
+{% extends 'leave_app/base.html' %}
+{% block content %}
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <div class="card mt-5">
+            <div class="card-header bg-primary text-white">
+                <h4 class="m-0">Logged Out</h4>
+            </div>
+            <div class="card-body">
+                <p>You have been successfully logged out.</p>
+                <a href="{% url 'login' %}" class="btn btn-outline-primary">Log In Again</a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %} 
